@@ -3,9 +3,9 @@
 - 1- Introduction
 - 2- Installation
 - 3 - Usage
-- - - Creating Arrays
-- - - Indexing and Slicing
-- - - Stacking Arrays
+- - Creating Arrays
+- - Indexing and Slicing
+- - Stacking Arrays
 
 
 
