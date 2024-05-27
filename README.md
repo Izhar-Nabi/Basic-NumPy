@@ -6,7 +6,8 @@
 - - Creating Arrays
 - - Indexing and Slicing
 - - Stacking Arrays
-
+- 4 - Conclusion
+- 5 - License
 
 
 # Introduction
